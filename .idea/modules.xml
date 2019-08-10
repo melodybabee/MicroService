@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-microservice.iml" filepath="$PROJECT_DIR$/spring-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usersystem/usersystem.iml" filepath="$PROJECT_DIR$/usersystem/usersystem.iml" />
     </modules>
   </component>
 </project>
